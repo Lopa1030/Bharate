@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "208529015714",
+    "project_id": "bharate-e6aed",
+    "storage_bucket": "bharate-e6aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208529015714:android:a74a91047453c4990528fb",
+        "android_client_info": {
+          "package_name": "com.android.bharate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208529015714-hao166s8ua81rpscu13p41frq1qf42ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.bharate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "208529015714-p1vmjjmsl4d2bpqnbsb9ec6vgsn69i88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJd-DEoPs3dX8Xhyxx0Mv8uLWOhqcBVGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208529015714-p1vmjjmsl4d2bpqnbsb9ec6vgsn69i88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208529015714-cqvic8kaqa6kccq35j9qgiiula8v8pku.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.android.bharate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
